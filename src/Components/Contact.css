@@ -1,0 +1,44 @@
+
+  /* MiComponente.css */
+
+
+
+  .custom-card1 {
+    width: 13rem; /* Ajusta el ancho del Card según tus necesidades */
+  }
+  
+  .custom-image {
+    max-width: 100%; /* La imagen se ajustará al ancho máximo del contenedor */
+    height: auto; /* La altura se ajustará automáticamente para mantener la proporción original de la imagen */
+  }
+  
+  /* Estilos del contenedor para alinear los lados uno al lado del otro */
+.contenedor {
+    display: flex;
+    justify-content: space-between; /* Espacio entre los lados */
+  }
+  
+  /* Estilos para el primer lado (lado1) */
+  .lado1 {
+    width: 50%; /* O ajusta el ancho según tus necesidades */
+  }
+  
+  /* Estilos para el segundo lado (lado2) */
+  .lado2 {
+    width: 50%; /* O ajusta el ancho según tus necesidades */
+  }
+
+  .lado3 {
+    width: 50%; /* O ajusta el ancho según tus necesidades */
+  }
+
+  .lado4 {
+    width: 50%; /* O ajusta el ancho según tus necesidades */
+  }
+
+  .lado5 {
+    width: 50%; /* O ajusta el ancho según tus necesidades */
+  }
+  
+  
+  

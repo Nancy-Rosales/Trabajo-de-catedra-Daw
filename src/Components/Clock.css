@@ -1,0 +1,24 @@
+.clock-container {
+    padding: 20px;
+    background-color: #fff;
+    margin-top: 60px; /* Ajusta según la altura de tu barra de navegación */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  img {
+    max-width: 100%; /* La imagen no será más ancha que su contenedor */
+    height: auto; /* Mantiene la relación de aspecto de la imagen */
+  }
+  
+  p {
+    font-size: 16px; /* Tamaño de fuente normal */
+  }
+  
+  input, button {
+    margin: 10px;
+  }
+  
+  /* Ajustar el espaciado entre elementos */
+  .clock-container > * {
+    margin: 10px 0;
+  }
